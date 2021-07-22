@@ -2,4 +2,10 @@ Hello How are you??
 
 
 JJJJJJJJ
+<<<<<<< HEAD
 hhhhh
+=======
+
+
+helloooo
+>>>>>>> newbranch
